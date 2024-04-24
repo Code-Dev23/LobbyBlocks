@@ -1,0 +1,4 @@
+name: LobbyBlocks
+version: '${version}'
+main: it.scopped.lobbyblocks.LobbyBlocks
+api-version: '1.20'
